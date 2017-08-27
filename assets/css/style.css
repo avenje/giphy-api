@@ -1,0 +1,18 @@
+h1 {
+	font-family: 'Fredericka the Great', cursive;
+}
+
+body {
+	background-color: yellow;
+}
+
+.jumbotron {
+	background-color: yellow;
+	
+}
+
+.btn-danger {
+	background-color: black;
+	color: yellow;
+	border-color: yellow;
+}
